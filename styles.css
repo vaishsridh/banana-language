@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+h1{
+    color: blue;
+}
+
+#btn-translate{
+    color: black;
+    font-style: italic;
+    margin: 10px;
+}
+
+#txt-input{
+    padding: 1rem 1rem;
+    margin: 1 rem;
+    width: 70%;
+    height: 15vh;
+    display: block;
+}
+
+#txt-output{
+    border: 1px solid black;
+    padding: 1rem 1rem;
+    width: 70%;
+    height: 15vh;
+    display: block;
+
+}
